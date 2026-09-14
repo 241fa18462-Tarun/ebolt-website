@@ -1,152 +1,64 @@
-# ⚡ eBolt — AI-Powered Productivity Platform
+# ⚡ eBolt
 
 <p align="center">
-  <strong>🚀 Smart • Fast • Modern • AI-Powered</strong>
+  <strong>AI-Powered Productivity Platform</strong>
+  <br>
+  <sub>Smart • Fast • Modern • Intelligent</sub>
 </p>
 
 <p align="center">
-  eBolt is a modern productivity platform that combines
-  <strong>Artificial Intelligence, voice interaction, authentication,
-  cloud services and a responsive user interface</strong>
-  into one simple digital workspace.
+  A modern productivity platform combining AI, voice interaction,
+  authentication and cloud services in one simple workspace.
 </p>
 
 <p align="center">
   <a href="https://ebolt-website-d2wl.onrender.com/">
-    🌐 <strong>LIVE WEBSITE</strong>
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20WEBSITE-EXPLORE%20EBOLT-2563EB?style=for-the-badge&labelColor=111827" alt="Live Website">
   </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/241fa18462-Tarun/ebolt-website">
-    💻 <strong>GITHUB REPOSITORY</strong>
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GITHUB-374151?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 🌐 Live Website
+## ✨ What is eBolt?
 
-### 🚀 Experience eBolt Online
+**eBolt** is an AI-powered productivity platform designed to provide a
+smart and interactive digital workspace.
 
-<p align="center">
+### 🚀 Highlights
 
-<a href="https://ebolt-website-d2wl.onrender.com/">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=⚡%20OPEN%20EBOLT%20LIVE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="90%">
-
-</a>
-
-</p>
-
-<p align="center">
-
-### 👉 <a href="https://ebolt-website-d2wl.onrender.com/"><strong>Visit the eBolt Live Website</strong></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://ebolt-website-d2wl.onrender.com/">
-https://ebolt-website-d2wl.onrender.com/
-</a>
-
-</p>
-
-> 💡 **Try the application directly in your browser.**
-> No source-code download is required to explore the deployed website.
+🤖 **AI Assistant** &nbsp; • &nbsp;
+🎙️ **Voice Features** &nbsp; • &nbsp;
+🔐 **Authentication** &nbsp; • &nbsp;
+🔥 **Firebase** &nbsp; • &nbsp;
+📱 **Responsive UI** &nbsp; • &nbsp;
+⚡ **Modern Performance**
 
 ---
 
-## ✨ About eBolt
+## 🛠️ Built With
 
-**eBolt** is an AI-powered productivity platform created to provide users
-with a smart and interactive digital workspace.
-
-The project combines a modern frontend with backend services,
-AI capabilities and cloud-based functionality.
-
-### 🎯 Project Goal
-
-The main goal of eBolt is to create a **simple, intelligent and responsive
-platform** where users can interact with AI, use voice-based features,
-manage their account and access productivity tools from one application.
+**React** · **TypeScript** · **Vite** · **Node.js** · **Express** ·
+**Google Gemini** · **Firebase** · **CSS** · **Render**
 
 ---
 
-## 🚀 Key Features
-
-| Feature | Description |
-|---|---|
-| 🤖 **AI Assistant** | Interact with an AI-powered assistant |
-| 💬 **AI Chat** | Send questions and receive intelligent responses |
-| 🎙️ **Voice Features** | Voice/audio-based interaction |
-| 🔐 **Authentication** | User login and account management |
-| 🔥 **Firebase** | Authentication and cloud integration |
-| 📱 **Responsive UI** | Designed for desktop, tablet and mobile screens |
-| 🎨 **Modern Design** | Clean and interactive user interface |
-| ⚡ **Fast Development** | Built using modern web technologies |
-| ☁️ **Cloud Deployment** | Deployed and accessible online |
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend
-
-- ⚛️ **React**
-- 📘 **TypeScript**
-- ⚡ **Vite**
-- 🎨 **CSS**
-
-### Backend
-
-- 🟢 **Node.js**
-- 🚂 **Express**
-- 🔌 **REST API**
-
-### AI & Cloud
-
-- 🤖 **Google Gemini**
-- 🔥 **Firebase**
-- ☁️ **Cloud Services**
-
-### Deployment
-
-- 🚀 **Render**
-
----
-
-## 🧩 How eBolt Works
+## 📂 Project Structure
 
 ```text
-                    ┌─────────────────────┐
-                    │       👤 User       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    ⚛️ React UI      │
-                    │   Responsive App    │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        🤖 AI Chat       🎙️ Voice        🔐 Authentication
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │    🟢 Node.js       │
-                    │      Express        │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────┴──────────┐
-                    ▼                     ▼
-             🤖 Google Gemini       🔥 Firebase
-                    │                     │
-                    └──────────┬──────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │    🚀 Render        │
-                    │   Live Deployment   │
-                    └─────────────────────┘
+ebolt-website/
+├── src/
+│   ├── components/
+│   ├── utils/
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── firebase.ts
+│   └── index.css
+├── server.ts
+├── vite.config.ts
+├── package.json
+├── firestore.rules
+└── README.md
