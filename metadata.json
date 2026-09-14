@@ -1,0 +1,10 @@
+{
+  "name": "Ebolt",
+  "description": "Ebolt web application featuring real-time authentication, multi-account data synchronization, AI-powered conversational search, and interactive navigation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

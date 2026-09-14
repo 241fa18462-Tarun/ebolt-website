@@ -1,0 +1,42 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Profiles",
+      "description": "User account information and preferences",
+      "type": "object",
+      "properties": {
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "lastLoginAt": { "type": "string" },
+        "searchCount": { "type": "number" }
+      },
+      "required": ["email", "displayName"]
+    },
+    "users/{userId}/searches": {
+      "title": "User Search History",
+      "description": "Real-time search queries, results, and AI bot interactions",
+      "type": "object",
+      "properties": {
+        "query": { "type": "string" },
+        "aiResponse": { "type": "string" },
+        "category": { "type": "string" },
+        "timestamp": { "type": "string" }
+      },
+      "required": ["query", "timestamp"]
+    },
+    "users/{userId}/savedItems": {
+      "title": "User Saved Data",
+      "description": "User saved documents, notes, and records",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "content": { "type": "string" },
+        "tag": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["title", "content"]
+    }
+  }
+}
