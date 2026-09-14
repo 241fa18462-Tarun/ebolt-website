@@ -23,7 +23,7 @@
 
 ---
 
-                                                                      https://ebolt-website-d2wl.onrender.com/
+                                             https://ebolt-website-d2wl.onrender.com/
 
 ## ✨ What is eBolt?
 
