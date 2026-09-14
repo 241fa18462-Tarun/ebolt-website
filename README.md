@@ -1,41 +1,11 @@
-# ⚡ eBolt — AI-Powered Productivity Platform
-
-<p align="center">
-  <strong>🚀 Smart. Fast. AI-Powered.</strong>
-</p>
-
-<p align="center">
-  A modern AI-powered productivity platform designed to make everyday tasks smarter, faster and easier.
-</p>
-
-<p align="center">
-
-  <a href="https://ebolt-website-d2wl.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20WEBSITE-00C853?style=for-the-badge" alt="Live Demo">
-  </a>
-
-  <a href="https://github.com/241fa18462-Tarun/ebolt-website">
-    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
-
-</p>
-
----
-
-## 🌐🚀 Live Website
-
-> ### ⚡ **eBolt is live!**
-
 <p align="center">
   <a href="https://ebolt-website-d2wl.onrender.com/">
-    <img src="https://img.shields.io/badge/🌍%20VISIT%20EBOLT%20NOW-CLICK%20HERE-00C853?style=for-the-badge" alt="Visit eBolt">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563EB&height=100&section=header&text=⚡%20OPEN%20EBOLT%20LIVE&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="90%" alt="Open eBolt Live">
   </a>
 </p>
 
 <p align="center">
   <a href="https://ebolt-website-d2wl.onrender.com/">
-    🔗 <strong>https://ebolt-website-d2wl.onrender.com/</strong>
+    <strong>🌐 Visit the Live Website →</strong>
   </a>
 </p>
-
----
