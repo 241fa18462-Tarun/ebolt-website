@@ -1,4 +1,4 @@
-# ⚡ eBolt — AI-Powered Productivity Platform
+# ⚡ Ebolt — AI-Powered Productivity Platform
 
 > 🚀 A modern, intelligent and responsive productivity web application designed to make everyday tasks smarter, faster and easier.
 
